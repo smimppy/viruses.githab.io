@@ -1,0 +1,10 @@
+body{
+	background-image: url("1.jpg");
+	background-repeat: repeat;
+}
+#container{
+	margin: 0 auto;
+	width:1000px;
+	background-color: #273757;
+	height: 35px;
+}
