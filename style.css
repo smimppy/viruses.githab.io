@@ -8,7 +8,7 @@ body{
 } 
 
 .container{
-	width:50%;
+	width:55%;
 	margin:0 auto;
 
 }
@@ -47,19 +47,14 @@ h2{
 .slider>img{
 	min-height:15%;
 	margin-top:10px;
-	height:53%;
+	height:58%;
 	width:100%;
-
-}
-
-.slider{
-	
 }
 
 .rectangle{
 	margin-top:10px;
 	background-color:#273757;
-	height:270px;
+	height:260px;
 	width:100%;
 }
 /*
@@ -78,9 +73,9 @@ h2{
 }*/
 
 .one{
-	padding:10px;
+	padding-left:22px;
 	float:left;
-	width:22.13%;
+	width:22.15%;
 }
 
 .line3{
@@ -110,6 +105,7 @@ h2{
 	height:25px;
 	width:26px;
 }
+
 p{
 	margin-left:5px;
 	font-size:12pt;
@@ -118,9 +114,20 @@ p{
 	color:#ffffff;
 }
 
+
 a{
 	display:block;
 	margin:0 auto;
 	/*border:1px blue solid;*/
 	width:60px;
+	list-style-type: none;
+	color:white;
 }
+
+.cry{
+	font-size:12pt;
+	font-family:Roboto;
+	font-weight:regular;
+	color:#ffffff
+}
+
