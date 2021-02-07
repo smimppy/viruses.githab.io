@@ -15,14 +15,14 @@ body{
 
 .header{
 	width:100%;
-	height:4%;
+	height:4.7%;
 	margin:0 auto;
 	background-color:#273757;
 }
 
 .line1{
 	margin-top:10px;
-	width:100%;
+	width:99.7%;
 	opacity:0.34;
 	border:1px solid #000000;
 	color:#000000;
@@ -31,13 +31,14 @@ body{
 h2{
 	margin-left:5px;
 	font-size:20pt;
-	font-family:Roboto;
+	font-family:new cycle;
 	font-weight:regular;
+	color:#ffffff;
 }
 
 .line2{
 	margin-top:10px;
-	width:99.9%;
+	width:99.7%;
 	opacity:0.34;
 	border:1px solid #000000;
 	color:#000000;
@@ -46,9 +47,13 @@ h2{
 .slider>img{
 	min-height:15%;
 	margin-top:10px;
-	height:46.2%;
+	height:53%;
 	width:100%;
 
+}
+
+.slider{
+	
 }
 
 .rectangle{
@@ -57,46 +62,30 @@ h2{
 	height:270px;
 	width:100%;
 }
-
+/*
 #block1{
-	background-color:pink;
-	width:;
+	float:left;
+	width:21%;
+	
+	
+	
 }
 
 #block1>img{
-	
-}
+	padding-left:22px;
+	padding-top:40px;
+	height:158px;
+}*/
 
-#block2{
-	background-color:pink;
-	
-}
-
-#block2>img{
-	
-}
-
-#block3{
-	background-color:pink;
-
-}
-
-#block3>img{
-	
-}
-
-#block4{
-	background-color:pink;
-	
-}
-
-#block4>img{
-	
+.one{
+	padding:10px;
+	float:left;
+	width:22.13%;
 }
 
 .line3{
 	margin-top:10px;
-	width:100%;
+	width:99.7%;
 	opacity:0.34;
 	border:1px solid #000000;
 	color:#000000;
@@ -105,16 +94,33 @@ h2{
 .basement{
 	margin-top:10px;
 	background-color:#273757;
-	height:144px;
+	height:15%;
 	width:100%;
 }
 
-#vk>img{
+.vk>img{
+	padding-left:20px;
 	height:25px;
 	width:26px;
 }
 
-#mail>img{
+.mail>img{
+	padding-left:20px;
+	padding-top:10px;
 	height:25px;
 	width:26px;
+}
+p{
+	margin-left:5px;
+	font-size:12pt;
+	font-family:Roboto;
+	font-weight:regular;
+	color:#ffffff;
+}
+
+a{
+	display:block;
+	margin:0 auto;
+	/*border:1px blue solid;*/
+	width:60px;
 }
