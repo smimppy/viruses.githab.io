@@ -28,7 +28,7 @@ body{
 	color:#000000;
 }
 
-/*.line3{
+/*.line{
 	position: absolute;
 	width: 40px;
 	height: 0px;
@@ -45,6 +45,15 @@ body{
 	width:14%;
 	color:#ffffff;
 	border:1px solid #ffffff;
+}
+
+.line3{
+	margin-top:10px;
+	margin-bottom:10px;
+	width:99.7%;
+	opacity:0.34;
+	border:1px solid #000000;
+	color:#000000;
 }
 
 h3{
