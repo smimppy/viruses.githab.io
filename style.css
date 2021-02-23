@@ -9,11 +9,9 @@ body{
 
 .container{
 	min-width:920px;
-	width:49.5%;
+	width:49.2%;
 	margin:0 auto;
 }
-
-
 
 .header{
 	width:100%;
@@ -60,14 +58,19 @@ h2{
 
 .parient{
 	background-color:#273757;
-	height:240px;
+	height:222px;
 	width:100%;
 }
 
 .one{
-	padding-left:4.94%;
+	padding-left:6%;
 	float:left;
-	width:20%; /*width:22.14%;*/
+	width:19%;/*width:22.14%;*/
+}
+
+.one img{
+	width:122px;
+	height:130px;
 }
 
 .line3{
