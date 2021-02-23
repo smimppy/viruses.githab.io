@@ -201,10 +201,18 @@ body{
 
 .mm{
 	padding-left:37%;
+	font-size:20pt;
+	font-family:Roboto;
+	font-weight:regular;
+	color:#ffffff;
 }
 
 .rr{
 	padding-left:23.5%;
+	font-size:20pt;
+	font-family:Roboto;
+	font-weight:regular;
+	color:#ffffff;
 }
 
 .os{
@@ -240,10 +248,18 @@ p{
 
 .t{
 	padding-left:28%;
+	font-size:20pt;
+	font-family:Roboto;
+	font-weight:regular;
+	color:#ffffff;
 }
 
 .q{
 	padding-left:36%;
+	font-size:20pt;
+	font-family:Roboto;
+	font-weight:regular;
+	color:#ffffff;
 }
 
 .a{
@@ -268,6 +284,10 @@ p{
 
 ul{
 	margin-left:12%;
+	font-size:12pt;
+	font-family:Roboto;
+	font-weight:regular;
+	color:#ffffff;
 }
 
 .bb{
