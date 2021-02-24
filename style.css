@@ -28,6 +28,15 @@ body{
 	color:#000000;
 }
 
+.line2{
+	margin-top:10px;
+	margin-bottom:10px;
+	width:99.7%;
+	opacity:0.34;
+	border:1px solid #000000;
+	color:#000000;
+}
+
 h2{
 	position:relative;
 	width:100px;
@@ -37,15 +46,6 @@ h2{
 	font-family:new cycle;
 	font-weight:regular;
 	color:#ffffff;
-}
-
-.line2{
-	margin-top:10px;
-	margin-bottom:10px;
-	width:99.7%;
-	opacity:0.34;
-	border:1px solid #000000;
-	color:#000000;
 }
 
 .slider>img{
@@ -116,7 +116,7 @@ a{
 	text-decoration:none;
 }
 
-.basement>a{
+.basement a{
 	/*border:1px blue solid;*/
 	width:48px;
 	list-style-type: none;

@@ -126,15 +126,6 @@ body{
 	border:1px solid white;
 }
 
-.line21{
-	margin-top:-20px;
-	margin-left:353px;
-	width:21%;
-	color:white;
-	border:1px solid white;
-}
-
-
 .line3{
 	margin-top:10px;
 	margin-bottom:10px;
@@ -153,10 +144,18 @@ body{
 	color:white;
 }
 
-.line7{
+.line20{
 	margin-top:-20px;
 	margin-left:377px;
 	width:13%;
+	color:white;
+	border:1px solid white;
+}
+
+.line21{
+	margin-top:-20px;
+	margin-left:353px;
+	width:21%;
 	color:white;
 	border:1px solid white;
 }
