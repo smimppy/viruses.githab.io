@@ -15,7 +15,7 @@ body{
 
 .header{
 	width:100%;
-	height:4.8%;
+	height:5%;
 	background-color:#273757;
 }
 
@@ -41,7 +41,7 @@ h2{
 	position:relative;
 	width:100px;
 	margin-left:5px;
-	margin-top:-40px;
+	margin-top:-36px;
 	font-size:20pt;
 	font-family:new cycle;
 	font-weight:regular;
@@ -84,7 +84,7 @@ h2{
 
 .basement{
 	background-color:#273757;
-	height:6%;
+	height:55px;
 	width:100%;
 }
 
@@ -99,7 +99,7 @@ h2{
 }
 
 p{
-	margin-left:5px;
+	margin-left:1%;
 	font-size:12pt;
 	font-family:Roboto;
 	font-weight:regular;
