@@ -145,11 +145,11 @@ body{
 }
 
 .line20{
-	margin-top:-20px;
-	margin-left:377px;
-	width:13%;
-	color:white;
-	border:1px solid white;
+	border-left: 1px solid white;
+    height: 180px;
+    position: absolute;
+    left: 50%;
+    top: 279%;
 }
 
 .line21{
@@ -226,7 +226,7 @@ p{
 }
 
 .g{
-	margin-left:12%;
+	margin-left:11.5%;
 	margin-right:10%;
 	width:78%;
 }
@@ -263,13 +263,13 @@ p{
 
 .a{
 	position:relative;
-	left:187px;
+	left:170px;
 	border:1px #ADD8E6 solid;
 }
 
 .L{
 	position:relative;
-	left:295px;
+	left:300px;
 	border:1px #ADD8E6 solid;
 }
 
