@@ -19,6 +19,24 @@ body{
 	background-color:#273757;
 }
 
+.header>a{
+	color:white;
+	text-decoration: none;
+}
+
+.header h2{
+	width:20px;
+	display:inline;
+	position:relative;
+	left:2%;
+	top:7px;
+	margin:4.2%;
+	font-size:18pt;
+	font-family:new cycle;
+	font-weight:regular;
+	color:#ffffff;
+}
+
 .line1{
 	margin-top:10px;
 	margin-bottom:10px;
