@@ -202,7 +202,7 @@ div>a{
 
 .parient1{
 	background-color:#273757;
-	height:4900px;
+	height:4830px;
 	width:100%;
 }
 
@@ -214,7 +214,7 @@ div>a{
 
 .parient3{
 	background-color:#273757;
-	height:2400px;
+	height:2370px;
 	width:100%;
 }
 
@@ -335,6 +335,8 @@ p{
 
 .main{
 	margin-left:12%;
+	margin-bottom:20px;
+	width:450px;
 	font-size:18pt;
 	font-family:Roboto;
 	font-weight:regular;
